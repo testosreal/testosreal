@@ -8,7 +8,6 @@
 ## 🚀 My Projects
 - 🧟 Pixel Zombie Shooter Game
 - 🌐 Simple Website
-- 
 - 🎮 Roblox Game Development
 - 🎨 Canva Design
 
