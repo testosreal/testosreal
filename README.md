@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Faiq 👋
 
-<!--
-**testosreal/testosreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Student Developer from Indonesia  
+🎮 Interested in Game Development and Design
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+- 🧟 Pixel Zombie Shooter Game
+- 🌐 Simple Website
+- 
+- 🎮 Roblox Game Development
+- 🎨 Canva Design
+
+---
+
+## 🛠 Skills
+- HTML
+- CSS
+- Canva
+- Roblox Game Development
+
+---
+
+## 📚 Currently Learning
+- JavaScript
+- AI
+- UI Design
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: https://id.linkedin.com/in/faiq-ahmad-ibrahim-223067409
+
+---
+
+## ⚡ Fun Fact
+I like games.
